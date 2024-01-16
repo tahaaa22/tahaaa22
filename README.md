@@ -75,7 +75,3 @@
 
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/tahaaa22/tahaaa22/output/snake.svg" alt="Snake animation" />
-
-###
