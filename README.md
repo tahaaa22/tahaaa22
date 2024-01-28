@@ -74,5 +74,5 @@
 
 ###
 
-![Profile Views](https://komarev.com/ghpvc/?username=tahaaa22)
+[![Profile Views](https://komarev.com/ghpvc/?username=tahaaa22&style=for-the-badge)](https://github.com/tahaaa22)
 <br clear="both">
