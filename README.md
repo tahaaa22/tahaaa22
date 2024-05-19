@@ -30,7 +30,7 @@ You can reach me at [ahmed.wesal03@eng-st.cu.edu.eg](mailto:ahmed.wesal03@eng-st
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -40,7 +40,7 @@ You can reach me at [ahmed.wesal03@eng-st.cu.edu.eg](mailto:ahmed.wesal03@eng-st
 ## Tools / Frameworks / Others:
 ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-blue?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=blue)
 ![Redis](https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
