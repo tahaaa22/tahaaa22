@@ -1,5 +1,3 @@
-## ABOUTME.txt
-
 Hey , I'm ahmed. I'm passionate about game development🎮, software engineering👨‍💻 and  machine learning🤖! I'm currently doing my bachelor degree🎓 in Biomedical Data Engineering at Faculty of Engineering, Cairo University🏫.
 
 - 🎓 I'm currently learning advanced biomedical signal processing, learning problem solving techniques and AI applications in healthcare.
@@ -9,6 +7,12 @@ Hey , I'm ahmed. I'm passionate about game development🎮, software engineering
 You can reach me at [ahmed.wesal03@eng-st.cu.edu.eg](mailto:ahmed.wesal03@eng-st.cu.edu.eg) or [LinkedIn](https://www.linkedin.com/in/ahmed-taha-953459250).
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ahmedtaha.com) -->
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaaa22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaaa22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ---
 
@@ -52,13 +56,6 @@ You can reach me at [ahmed.wesal03@eng-st.cu.edu.eg](mailto:ahmed.wesal03@eng-st
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1563FF?style=flat-square&logo=vagrant&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaaa22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaaa22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=tahaaa22&style=for-the-badge)
