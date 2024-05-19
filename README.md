@@ -38,7 +38,8 @@ You can reach me at [ahmed.wesal03@eng-st.cu.edu.eg](mailto:ahmed.wesal03@eng-st
 ---
 
 ## Tools / Frameworks / Others:
-
+![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-blue?style=flat-square&logo=flask&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
