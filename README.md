@@ -4,7 +4,6 @@ Hey , I'm ahmed. I'm passionate about game development🎮, software engineering
 - 🚀 I'm looking to collaborate on innovative projects.
 - 🧠 I'm looking for opportunities in health tech and machine learning.
 
-You can reach me at [ahmed.wesal03@eng-st.cu.edu.eg](mailto:ahmed.wesal03@eng-st.cu.edu.eg) or [LinkedIn](https://www.linkedin.com/in/ahmed-taha-953459250).
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ahmedtaha.com) -->
 ---
