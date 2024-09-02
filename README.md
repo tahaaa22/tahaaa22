@@ -2,7 +2,7 @@ Hey , I'm ahmed. I'm passionate about game development🎮, software engineering
 
 - 🎓 I'm currently learning advanced biomedical signal processing, learning problem solving techniques and AI applications in healthcare.
 - 🚀 I'm looking to collaborate on innovative projects.
-- 🧠 I'm looking for opportunities in backend and machine learning opportunities.
+- 🧠 I'm looking for opportunities in backend and machine learning.
 
 
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ahmedtaha.com) -->
