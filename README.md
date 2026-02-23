@@ -1,20 +1,37 @@
-Hey , I'm ahmed. I'm passionate about game development🎮, software engineering👨‍💻 and  machine learning🤖! I'm currently doing my bachelor degree🎓 in Biomedical Data Engineering at Faculty of Engineering, Cairo University🏫.
+# Ahmed Mohamed Taha
 
-- 🎓 I'm currently learning advanced biomedical signal processing, learning problem solving techniques and AI applications in healthcare.
-- 🚀 I'm looking to collaborate on innovative projects.
-- 🧠 I'm looking for opportunities in backend and machine learning.
+Software & Machine Learning Engineer  
+**My Bachelor**: Biomedical Software Engineering Student at Cairo University
 
-
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ahmedtaha.com) -->
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaaa22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahaaa22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I design scalable backend systems and build AI-driven healthcare applications.  
+My focus is distributed systems, production-ready architectures, and applied machine learning.
 
 ---
 
+## What I Work On
+
+- Scalable backend systems (.NET, Node.js, FastAPI)
+- Distributed ML infrastructure (Apache Spark, MLflow)
+- Healthcare AI & biomedical signal processing
+- DevOps & system observability
+
+---
+
+## Selected Projects
+
+### Distributed ML Infrastructure
+Designed and deployed a containerized Apache Spark cluster (1 master, 3 workers) with MLflow for experiment tracking.  
+Integrated YOLO models and optimized inference using OpenVINO.
+
+### Production Full-Stack Platform (10K+ Users)
+Led development of a full-stack system deployed on Azure VM using Docker, CI/CD pipelines, and monitoring stack (Prometheus + Grafana).
+
+### Biomedical Signal Classification
+Built an ML pipeline for signal preprocessing and classification, exposing the model through a REST API.
+
+---
+
+Open to software and machine learning internship opportunities.
 ## Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ahmed-taha-953459250)
@@ -58,4 +75,5 @@ Hey , I'm ahmed. I'm passionate about game development🎮, software engineering
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=tahaaa22&style=for-the-badge)
+
 
